@@ -1,0 +1,246 @@
+
+.container{
+ display: flex;
+ background-color: rgb(201, 104, 104);
+ align-content: center;
+ justify-content: center;
+ padding: 0px;
+} 
+#container div{
+ align-items: center;
+ margin: 10px;
+ width: 100%;
+}
+h4{ margin-left: 800px;}
+button{ 
+      padding: 10px;
+      width: 100px;  
+      background-color: #f51811;
+      border: none;
+      text-align: center;
+      margin-top: 7px;
+}
+.logo{
+ display: flex;
+ background-color:solid white;
+}
+.logo div{
+ align-items: center;
+ margin: 10px;
+ width: 100%;
+}
+.head{
+ background-color: rgb(47, 16, 133);
+}
+.head ul{
+ overflow: hidden;
+}
+.head li{
+ float: left;
+ list-style: none;
+ margin: 6px 43px;
+}
+.head li a{
+ padding: 3px 3px;
+ text-decoration: none;
+ color: white;
+}
+.active{
+ background-color: #f51811;
+}
+.parent{
+ position: relative;
+}
+.img{
+ position: absolute;
+ overflow: hidden;
+}
+.blue{
+ background-color: rgba(107, 29, 29, 0.7);
+ width: 600px;
+ height: 500px;
+ border-top-right-radius: 50px;
+ border-bottom-right-radius: 50px;
+ position: absolute;
+}
+.txt{
+ position: absolute;
+ top: 100px;
+ margin-left: 120px;
+}
+.white{color: aliceblue;}
+
+.btn3{background-color: aliceblue;}
+.box{
+ position:relative;
+ top: 600px;
+ margin-left: 100px;
+}
+.txt2{
+ position: absolute;
+ top: 50px;
+ right: 100px;
+ color: black;
+}
+.btn4{
+ position: absolute;
+ top: 290px;
+ margin-left: 110px;
+}
+.txt3{
+ position: absolute;
+ top: 1200px;
+ margin-left: 100px
+}
+.divs{
+ position: relative;
+ top: 700px;
+ display: flex;
+ justify-content: center;
+}
+.divs div{
+ margin: 3px;
+ padding: 4px;
+ border: solid rgb(202, 201, 201);
+ text-align: center;
+}
+.red{
+ color: rgb(255, 52, 37);
+}
+.divs2{
+ position: relative;
+ top: 700px;
+ display: flex;
+ justify-content: center;
+}
+.divs2 div{
+ margin: 3px;
+ padding: 4px;
+ border: solid rgb(202, 201, 201);
+ text-align: center;
+}
+.btn5{
+ position: absolute;
+ top: 1650px;
+ background-color: #e42c26;
+ margin-left: 600px;
+}
+.green{
+ display: flex;
+ align-items: right;
+ margin: 50px;
+ border: #f51811;
+ background-color: rgb(6, 71, 39);
+ padding: 120px;
+ width: 900px;
+ height: 270px;
+ margin-left:100px;
+ margin-top: 800px;
+}
+.white2{
+ position: absolute;
+ top: 1800px;
+ color: aliceblue;
+}
+.green div{
+ margin:6px;
+}
+.arrows{
+ position: absolute;
+ top: 1950px;
+ margin-left: 170px;
+ align-items: center;
+ margin-block: 5px;
+}
+.great{
+  background-color: #f51811;
+  width: 50px;
+}
+.less{
+   background-color: aliceblue;
+   width: 50px;
+}
+.arrows button{margin: 1px;}
+.bj2{
+ margin-left: 350px;
+ width: 50%;
+}
+.gol{
+ margin-left: 500px;
+}
+.gol button{
+ height: 50;
+ width: 50px;
+ justify-content: center;
+ align-items: center;
+ background-color: rgb(255, 255, 255);
+}
+.gol img{
+ width: 60px;
+ clip-path: circle();
+ margin: 1px;
+}
+.namg{
+ margin-left: 550px;
+ color: rgb(105, 96, 96);
+}
+.touch{
+ color: black;
+ margin-left: 500px;
+}
+.login{
+ margin-left: 30px;
+ border: light grey;
+}
+.login input{
+  margin: 5px;
+  width: 90%;
+  padding: 10px;
+}
+.pic{
+ display: flex;
+ justify-content: center;
+}
+.pic div{
+ margin: 7px;
+}
+.para{
+ display: flex;
+ justify-content: center
+}
+.para div{
+ margin: 8px;
+}
+.black{
+ display: flex;
+ align-items: right;
+ margin: 50px;
+ border: #000000;
+ background-color: rgb(71, 68, 68);
+ padding: 80px;
+ width: 900px;
+ height: 270px;
+ margin-left:100px;
+ margin-top: 50px;
+}
+.side{
+ margin-left: 3px;
+ color: aliceblue;
+}
+.home{
+ margin-left: 60px;
+ margin-top: 1px;
+}
+.mail{
+ margin-left:120px ;
+}
+.black i{
+ padding: 8px;
+ border-radius: 20px;
+ background-color: #fdfdfd;
+ margin: 2px;
+}
+.logo i{
+ margin: 2px;
+ margin-top: 5px;
+}
